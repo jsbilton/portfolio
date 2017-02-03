@@ -1,0 +1,58 @@
+/************************
+*******  Navbar  ********
+*************************/
+
+.navbar {
+  background-color: #102E3C;
+  border-bottom: 1px solid #b9b9b9;
+  font-family: 'Ubuntu', sans-serif;
+}
+.navbar button {
+  background-color: #102E3C;
+  border: 1px solid #ffffff;
+}
+.navbar button:hover {
+  background-color: #646464;
+}
+.navbar a {
+  color: #cccccc !important;
+}
+
+.navbar a:hover {
+  color: #ffffff !important;
+  background-color: #646464 !important;
+}
+
+.navbar-header .navbar-brand {
+  color: #ffffff !important;
+  font-size: 1.5em;
+}
+
+/***********************
+******** Header ********
+************************/
+
+.header {
+  padding: 20px;
+  background-color: #D3D3D3;
+}
+
+.btn-custom {
+  background-color: #102E3C;
+  color: #ffffff;
+}
+
+.btn-custom:hover {
+  background-color: #646464;
+}
+
+/********************
+****** Content ******
+*********************/
+
+p {
+  padding: 5px;
+}
+h1 {
+  padding: 5px;
+}

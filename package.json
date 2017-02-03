@@ -1,18 +1,19 @@
 {
   "name": "web",
   "version": "1.0.0",
-  "description": "",
+  "description": "jared portfolio",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start"
   },
   "keywords": [],
-  "author": "",
+  "author": "jared",
   "license": "ISC",
   "dependencies": {
     "react": "^15.4.2",
+    "react-bootstrap": "^0.30.7",
     "react-dom": "^15.4.2",
-    "react-router": "^4.0.0-beta.2",
+    "react-router": "^4.0.0-beta.3",
     "react-scripts": "^0.8.5",
     "xhr": "^2.3.3"
   }
